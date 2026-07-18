@@ -39,6 +39,7 @@ A grid-based Snake Game built using React.js, featuring real-time movement, coll
 ```bash
 npm install
 npm run dev
+```
 
 ---
 
