@@ -42,12 +42,13 @@ npm run dev
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 - Pause/Resume feature
 - Difficulty levels
 - Mobile touch controls
 - Game start screen
 
-👨‍💻 Author
+---
 
+## 👨‍💻 Author
 Kaberi Bera
