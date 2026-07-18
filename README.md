@@ -5,6 +5,11 @@ A grid-based Snake Game built using React.js, featuring real-time movement, coll
 ---
 ## 📸 Preview
 ![Snake Game Screenshot](https://raw.githubusercontent.com/kaberi-bera/Snake-Game/main/screenshot.png)
+
+---
+## 🌐 Live Demo
+
+[🚀 Play Snake Game](https://snake-game-app-seven.vercel.app/)
 ---
 
 ## 🚀 Features
