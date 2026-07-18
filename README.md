@@ -42,12 +42,11 @@ npm run dev
 
 ---
 
-📌 Future Improvements
-
-Pause/Resume feature
-Difficulty levels
-Mobile controls
-Game start screen
+## 📌 Future Improvements
+- Pause/Resume feature
+- Difficulty levels
+- Mobile touch controls
+- Game start screen
 
 👨‍💻 Author
 
